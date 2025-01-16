@@ -1,0 +1,3 @@
+pirujenkins - UN
+Piru@2580 - pwd
+http://localhost:8080/
